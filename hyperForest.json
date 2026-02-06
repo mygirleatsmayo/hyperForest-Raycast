@@ -1,0 +1,20 @@
+{
+    "name": "hyperForest",
+    "author": "mygirleatsmayo",
+    "authorUsername": "mygirleatsmayo",
+    "appearance": "dark",
+    "colors": {
+        "background": "#001700",
+        "backgroundSecondary": "#001700",
+        "text": "#FFB3D9",
+        "selection": "#72FF72",
+        "loader": "#FF1493",
+        "red": "#FF3DB8",
+        "orange": "#FF69B4",
+        "yellow": "#F1C40F",
+        "green": "#2ECC71",
+        "blue": "#5C59B6",
+        "purple": "#BB8FCE",
+        "magenta": "#FF1493"
+    }
+}
